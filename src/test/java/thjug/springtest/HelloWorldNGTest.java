@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 public class HelloWorldNGTest {
 
     @Autowired
-    private HelloWorld hw;
+    private Hello hw;
 
     @Test
     public void testSay() {
